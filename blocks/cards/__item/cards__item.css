@@ -1,0 +1,8 @@
+.cards__item {
+  display: flex;
+  flex-direction: column;
+  max-width: 240px;
+  margin: 0;
+  box-sizing: border-box;
+  flex-basis: min-content;
+}

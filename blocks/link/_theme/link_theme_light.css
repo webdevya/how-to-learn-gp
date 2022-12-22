@@ -1,0 +1,7 @@
+.link_theme_light {
+  color: #2f80ed;
+}
+
+.link_theme_light::after {
+  content: ' →';
+}
